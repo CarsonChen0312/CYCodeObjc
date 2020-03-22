@@ -24,7 +24,7 @@ void testUSACoder() {
                                                  gender:CYPersonGenderMale];
     CYUSACoder *usaCoder = [[CYUSACoder alloc] initWithName:@"Tom"
                                                        gender:CYPersonGenderMale];
-    [usaCoder CY_PlayBasketBallWithPerson:person];
+    [usaCoder cy_PlayBasketBallWithPerson:person];
 }
 
 void testChinessCoder() {

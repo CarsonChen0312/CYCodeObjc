@@ -12,7 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface CYPerson (Sports)
 
-- (void)CY_PlayBasketBallWithPerson:(nullable CYPerson *)person;
+- (void)cy_PlayBasketBallWithPerson:(nullable CYPerson *)person;
 
 @end
 

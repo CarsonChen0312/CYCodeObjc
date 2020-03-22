@@ -10,7 +10,7 @@
 
 @implementation CYPerson (Sports)
 
-- (void)CY_PlayBasketBallWithPerson:(CYPerson *)person {
+- (void)cy_PlayBasketBallWithPerson:(CYPerson *)person {
     
 }
 
