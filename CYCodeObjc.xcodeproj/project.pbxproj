@@ -7,15 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B582B49724279E76001880FA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B582B49624279E76001880FA /* main.m */; };
-		B582B4A724279EAE001880FA /* CYYPerson+Sports.m in Sources */ = {isa = PBXBuildFile; fileRef = B582B49E24279EAD001880FA /* CYYPerson+Sports.m */; };
-		B582B4A824279EAE001880FA /* CYYPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = B582B4A324279EAD001880FA /* CYYPerson.m */; };
-		B582B4A924279EAE001880FA /* CYYChineseCoder.m in Sources */ = {isa = PBXBuildFile; fileRef = B582B4A424279EAD001880FA /* CYYChineseCoder.m */; };
-		B582B4AA24279EAE001880FA /* CYYUSACoder.m in Sources */ = {isa = PBXBuildFile; fileRef = B582B4A624279EAE001880FA /* CYYUSACoder.m */; };
+		B582B4CB2427C362001880FA /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B582B4CA2427C362001880FA /* main.m */; };
+		B582B4DB2427C375001880FA /* CYPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = B582B4D52427C375001880FA /* CYPerson.m */; };
+		B582B4DC2427C375001880FA /* CYChineseCoder.m in Sources */ = {isa = PBXBuildFile; fileRef = B582B4D62427C375001880FA /* CYChineseCoder.m */; };
+		B582B4DD2427C375001880FA /* CYPerson+Sports.m in Sources */ = {isa = PBXBuildFile; fileRef = B582B4D82427C375001880FA /* CYPerson+Sports.m */; };
+		B582B4DE2427C375001880FA /* CYUSACoder.m in Sources */ = {isa = PBXBuildFile; fileRef = B582B4D92427C375001880FA /* CYUSACoder.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		B582B49124279E76001880FA /* CopyFiles */ = {
+		B582B4C52427C362001880FA /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -27,22 +27,22 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		B582B49324279E76001880FA /* CYYCodeObjc */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CYYCodeObjc; sourceTree = BUILT_PRODUCTS_DIR; };
-		B582B49624279E76001880FA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		B582B49D24279EAD001880FA /* CYYPerson+Sports.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CYYPerson+Sports.h"; sourceTree = "<group>"; };
-		B582B49E24279EAD001880FA /* CYYPerson+Sports.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CYYPerson+Sports.m"; sourceTree = "<group>"; };
-		B582B49F24279EAD001880FA /* CYYPerson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYYPerson.h; sourceTree = "<group>"; };
-		B582B4A024279EAD001880FA /* CYYUSACoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYYUSACoder.h; sourceTree = "<group>"; };
-		B582B4A124279EAD001880FA /* CYYChinaCoderDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYYChinaCoderDelegate.h; sourceTree = "<group>"; };
-		B582B4A224279EAD001880FA /* CYYCoderProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYYCoderProtocol.h; sourceTree = "<group>"; };
-		B582B4A324279EAD001880FA /* CYYPerson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYYPerson.m; sourceTree = "<group>"; };
-		B582B4A424279EAD001880FA /* CYYChineseCoder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYYChineseCoder.m; sourceTree = "<group>"; };
-		B582B4A524279EAD001880FA /* CYYChineseCoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYYChineseCoder.h; sourceTree = "<group>"; };
-		B582B4A624279EAE001880FA /* CYYUSACoder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYYUSACoder.m; sourceTree = "<group>"; };
+		B582B4C72427C362001880FA /* CYCodeObjc */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CYCodeObjc; sourceTree = BUILT_PRODUCTS_DIR; };
+		B582B4CA2427C362001880FA /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B582B4D12427C375001880FA /* CYChineseCoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYChineseCoder.h; sourceTree = "<group>"; };
+		B582B4D22427C375001880FA /* CYPerson+Sports.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CYPerson+Sports.h"; sourceTree = "<group>"; };
+		B582B4D32427C375001880FA /* CYCoderProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYCoderProtocol.h; sourceTree = "<group>"; };
+		B582B4D42427C375001880FA /* CYUSACoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYUSACoder.h; sourceTree = "<group>"; };
+		B582B4D52427C375001880FA /* CYPerson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYPerson.m; sourceTree = "<group>"; };
+		B582B4D62427C375001880FA /* CYChineseCoder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYChineseCoder.m; sourceTree = "<group>"; };
+		B582B4D72427C375001880FA /* CYChinaCoderDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYChinaCoderDelegate.h; sourceTree = "<group>"; };
+		B582B4D82427C375001880FA /* CYPerson+Sports.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CYPerson+Sports.m"; sourceTree = "<group>"; };
+		B582B4D92427C375001880FA /* CYUSACoder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CYUSACoder.m; sourceTree = "<group>"; };
+		B582B4DA2427C375001880FA /* CYPerson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CYPerson.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		B582B49024279E76001880FA /* Frameworks */ = {
+		B582B4C42427C362001880FA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -52,75 +52,75 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		B582B48A24279E76001880FA = {
+		B582B4BE2427C362001880FA = {
 			isa = PBXGroup;
 			children = (
-				B582B49524279E76001880FA /* CYYCodeObjc */,
-				B582B49424279E76001880FA /* Products */,
+				B582B4C92427C362001880FA /* CYCodeObjc */,
+				B582B4C82427C362001880FA /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		B582B49424279E76001880FA /* Products */ = {
+		B582B4C82427C362001880FA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B582B49324279E76001880FA /* CYYCodeObjc */,
+				B582B4C72427C362001880FA /* CYCodeObjc */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B582B49524279E76001880FA /* CYYCodeObjc */ = {
+		B582B4C92427C362001880FA /* CYCodeObjc */ = {
 			isa = PBXGroup;
 			children = (
-				B582B49624279E76001880FA /* main.m */,
-				B582B49F24279EAD001880FA /* CYYPerson.h */,
-				B582B4A324279EAD001880FA /* CYYPerson.m */,
-				B582B49D24279EAD001880FA /* CYYPerson+Sports.h */,
-				B582B49E24279EAD001880FA /* CYYPerson+Sports.m */,
-				B582B4A224279EAD001880FA /* CYYCoderProtocol.h */,
-				B582B4A124279EAD001880FA /* CYYChinaCoderDelegate.h */,
-				B582B4A524279EAD001880FA /* CYYChineseCoder.h */,
-				B582B4A424279EAD001880FA /* CYYChineseCoder.m */,
-				B582B4A024279EAD001880FA /* CYYUSACoder.h */,
-				B582B4A624279EAE001880FA /* CYYUSACoder.m */,
+				B582B4D72427C375001880FA /* CYChinaCoderDelegate.h */,
+				B582B4D12427C375001880FA /* CYChineseCoder.h */,
+				B582B4D62427C375001880FA /* CYChineseCoder.m */,
+				B582B4D32427C375001880FA /* CYCoderProtocol.h */,
+				B582B4DA2427C375001880FA /* CYPerson.h */,
+				B582B4D52427C375001880FA /* CYPerson.m */,
+				B582B4D22427C375001880FA /* CYPerson+Sports.h */,
+				B582B4D82427C375001880FA /* CYPerson+Sports.m */,
+				B582B4D42427C375001880FA /* CYUSACoder.h */,
+				B582B4D92427C375001880FA /* CYUSACoder.m */,
+				B582B4CA2427C362001880FA /* main.m */,
 			);
-			path = CYYCodeObjc;
+			path = CYCodeObjc;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B582B49224279E76001880FA /* CYYCodeObjc */ = {
+		B582B4C62427C362001880FA /* CYCodeObjc */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B582B49A24279E76001880FA /* Build configuration list for PBXNativeTarget "CYYCodeObjc" */;
+			buildConfigurationList = B582B4CE2427C362001880FA /* Build configuration list for PBXNativeTarget "CYCodeObjc" */;
 			buildPhases = (
-				B582B48F24279E76001880FA /* Sources */,
-				B582B49024279E76001880FA /* Frameworks */,
-				B582B49124279E76001880FA /* CopyFiles */,
+				B582B4C32427C362001880FA /* Sources */,
+				B582B4C42427C362001880FA /* Frameworks */,
+				B582B4C52427C362001880FA /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = CYYCodeObjc;
-			productName = CYYCodeObjc;
-			productReference = B582B49324279E76001880FA /* CYYCodeObjc */;
+			name = CYCodeObjc;
+			productName = CYCodeObjc;
+			productReference = B582B4C72427C362001880FA /* CYCodeObjc */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		B582B48B24279E76001880FA /* Project object */ = {
+		B582B4BF2427C362001880FA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1130;
 				ORGANIZATIONNAME = carson;
 				TargetAttributes = {
-					B582B49224279E76001880FA = {
+					B582B4C62427C362001880FA = {
 						CreatedOnToolsVersion = 11.3.1;
 					};
 				};
 			};
-			buildConfigurationList = B582B48E24279E76001880FA /* Build configuration list for PBXProject "CYYCodeObjc" */;
+			buildConfigurationList = B582B4C22427C362001880FA /* Build configuration list for PBXProject "CYCodeObjc" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -128,33 +128,33 @@
 				en,
 				Base,
 			);
-			mainGroup = B582B48A24279E76001880FA;
-			productRefGroup = B582B49424279E76001880FA /* Products */;
+			mainGroup = B582B4BE2427C362001880FA;
+			productRefGroup = B582B4C82427C362001880FA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B582B49224279E76001880FA /* CYYCodeObjc */,
+				B582B4C62427C362001880FA /* CYCodeObjc */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		B582B48F24279E76001880FA /* Sources */ = {
+		B582B4C32427C362001880FA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B582B49724279E76001880FA /* main.m in Sources */,
-				B582B4A924279EAE001880FA /* CYYChineseCoder.m in Sources */,
-				B582B4AA24279EAE001880FA /* CYYUSACoder.m in Sources */,
-				B582B4A724279EAE001880FA /* CYYPerson+Sports.m in Sources */,
-				B582B4A824279EAE001880FA /* CYYPerson.m in Sources */,
+				B582B4DB2427C375001880FA /* CYPerson.m in Sources */,
+				B582B4DC2427C375001880FA /* CYChineseCoder.m in Sources */,
+				B582B4DE2427C375001880FA /* CYUSACoder.m in Sources */,
+				B582B4CB2427C362001880FA /* main.m in Sources */,
+				B582B4DD2427C375001880FA /* CYPerson+Sports.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		B582B49824279E76001880FA /* Debug */ = {
+		B582B4CC2427C362001880FA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -212,7 +212,7 @@
 			};
 			name = Debug;
 		};
-		B582B49924279E76001880FA /* Release */ = {
+		B582B4CD2427C362001880FA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -263,7 +263,7 @@
 			};
 			name = Release;
 		};
-		B582B49B24279E76001880FA /* Debug */ = {
+		B582B4CF2427C362001880FA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -271,7 +271,7 @@
 			};
 			name = Debug;
 		};
-		B582B49C24279E76001880FA /* Release */ = {
+		B582B4D02427C362001880FA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -282,25 +282,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B582B48E24279E76001880FA /* Build configuration list for PBXProject "CYYCodeObjc" */ = {
+		B582B4C22427C362001880FA /* Build configuration list for PBXProject "CYCodeObjc" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B582B49824279E76001880FA /* Debug */,
-				B582B49924279E76001880FA /* Release */,
+				B582B4CC2427C362001880FA /* Debug */,
+				B582B4CD2427C362001880FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B582B49A24279E76001880FA /* Build configuration list for PBXNativeTarget "CYYCodeObjc" */ = {
+		B582B4CE2427C362001880FA /* Build configuration list for PBXNativeTarget "CYCodeObjc" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				B582B49B24279E76001880FA /* Debug */,
-				B582B49C24279E76001880FA /* Release */,
+				B582B4CF2427C362001880FA /* Debug */,
+				B582B4D02427C362001880FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = B582B48B24279E76001880FA /* Project object */;
+	rootObject = B582B4BF2427C362001880FA /* Project object */;
 }

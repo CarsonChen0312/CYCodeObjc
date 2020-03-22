@@ -1,17 +1,17 @@
 //
-//  CYYUSACoder.h
-//  CYYCodeObjc
+//  CYUSACoder.h
+//  CYCodeObjc
 //
 //  Created by Carson on 2020/3/22.
 //  Copyright © 2020 CarsonChen. All rights reserved.
 //
 
-#import "CYYPerson.h"
-#import "CYYPerson+Sports.h"
+#import "CYPerson.h"
+#import "CYPerson+Sports.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface CYYUSACoder : CYYPerson<CYYCoderProtocol>
+@interface CYUSACoder : CYPerson<CYCoderProtocol>
 
 @end
 
